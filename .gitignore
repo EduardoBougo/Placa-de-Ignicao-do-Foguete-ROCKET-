@@ -1,0 +1,13 @@
+# Ignorar pastas de histórico de editores
+.history/
+
+# Ignorar backups e arquivos temporários do KiCad
+*-bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+fp-info-cache
