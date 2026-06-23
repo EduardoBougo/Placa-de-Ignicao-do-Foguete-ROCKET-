@@ -3025,7 +3025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Meus_Footprints:MODULE_RA-02_LORA"
+		(property "Footprint" "Footprints:MODULE_RA-02_LORA"
 			(at 218.44 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3279,7 +3279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Meus_Footprints:MODULE_ESP32-DEVKITC-32E"
+		(property "Footprint" "Footprints:MODULE_ESP32-DEVKITC-32E"
 			(at 120.65 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3875,10 +3875,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "7e1311f1-59b9-4419-bf4a-07962b2ae6c8")
+			(uuid "7e1311f1-59b9-4419-bf4a-07962b2ae6c9")
 		)
 		(pin "1"
-			(uuid "d5d539fa-f4f2-4797-9bef-512ffa167234")
+			(uuid "d5d539fa-f4f2-4797-9bef-512ffa167235")
 		)
 		(instances
 			(project "Placa de Ignição do Foguete (ROCKET)"
